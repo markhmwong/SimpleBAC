@@ -1,0 +1,269 @@
+{
+    "country": [
+        {
+            "name": "Afghanistan",
+            "legalLimit": 0.00,
+            "alcoholMass": 0.00,
+        },
+        {
+            "name": "Azerbaijan",
+            "legalLimit": 0.00,
+            "alcoholMass": 10.00,
+        },
+        {
+            "name": "Australia",
+            "legalLimit": 0.05,
+            "alcoholMass": 10,
+        },
+        {
+            "name": "Austria",
+            "legalLimit": 0.05,
+            "alcoholMass": 20,
+        },
+        {
+            "name": "Bulgaria",
+            "legalLimit": 0.05,
+            "alcoholMass": 20.00,
+        },
+        {
+            "name": "Canada",
+            "legalLimit": 0.05,
+            "alcoholMass": 13.45,
+        },
+        {
+            "name": "Chile",
+            "legalLimit": 0.03,
+            "alcoholMass": 15.00,
+        },
+        {
+            "name": "China",
+            "legalLimit": 0.08,
+            "alcoholMass": 10.00,
+        },
+        {
+            "name": "Croatia",
+            "legalLimit": 0.05,
+            "alcoholMass": 10.00,
+        },
+        {
+            "name": "Cyprus",
+            "legalLimit": 0.05,
+            "alcoholMass": 12.00,
+        },
+        {
+            "name": "Czechia",
+            "legalLimit": 0.00,
+            "alcoholMass": 16.00,
+        },
+        {
+            "name": "Denmark",
+            "legalLimit": 0.05,
+            "alcoholMass": 12.00,
+        },
+        {
+            "name": "Estonia",
+            "legalLimit": 0.02,
+            "alcoholMass": 10.00,
+        },
+        {
+            "name": "Ethiopia",
+            "legalLimit": 0.08,
+            "alcoholMass": 10.00,
+        },
+        {
+            "name": "Finland",
+            "legalLimit": 0.05,
+            "alcoholMass": 12.00,
+        },
+        {
+            "name": "France",
+            "legalLimit": 0.05,
+            "alcoholMass": 10.00,
+        },
+        {
+            "name": "Germany",
+            "legalLimit": 0.05,
+            "alcoholMass": 10.00,
+        },
+        {
+            "name": "Hong Kong",
+            "legalLimit": 0.05,
+            "alcoholMass": 10,
+        },
+        {
+            "name": "Hungary",
+            "legalLimit": 0.00,
+            "alcoholMass": 17.00,
+        },
+        {
+            "name": "Iceland",
+            "legalLimit": 0.05,
+            "alcoholMass": 8.00,
+        },
+        {
+            "name": "Iran",
+            "legalLimit": 0.00,
+            "alcoholMass": 10.00,
+        },
+        {
+            "name": "Ireland",
+            "legalLimit": 0.05,
+            "alcoholMass": 10.00,
+        },
+        {
+            "name": "Israel",
+            "legalLimit": 0.05,
+            "alcoholMass": 10.00,
+        },
+        {
+            "name": "Italy",
+            "legalLimit": 0.05,
+            "alcoholMass": 10.00,
+        },
+        {
+            "name": "Jamaica",
+            "legalLimit": 0.08,
+            "alcoholMass": 10.00,
+        },
+        {
+            "name": "Japan",
+            "legalLimit": 0.03,
+            "alcoholMass": 19.75,
+        },
+        {
+            "name": "Latvia",
+            "legalLimit": 0.05,
+            "alcoholMass": 12.00,
+        },
+        {
+            "name": "Luxembourg",
+            "legalLimit": 0.05,
+            "alcoholMass": 12.00,
+        },
+        {
+            "name": "Malaysia",
+            "legalLimit": 0.08,
+            "alcoholMass": 10.00,
+        },
+        {
+            "name": "Marshall Islands",
+            "legalLimit": 0.00,
+            "alcoholMass": 10.00,
+        },
+        {
+            "name": "Mexico",
+            "legalLimit": 0.08,
+            "alcoholMass": 13.00,
+        },
+        {
+            "name": "Mongolia",
+            "legalLimit": 0.05,
+            "alcoholMass": 9.8,
+        },
+        {
+            "name": "Netherlands",
+            "legalLimit": 0.05,
+            "alcoholMass": 10.00,
+        },
+        {
+            "name": "New Zealand",
+            "legalLimit": 0.05,
+            "alcoholMass": 10.00,
+        },
+        {
+            "name": "Norway",
+            "legalLimit": 0.02,
+            "alcoholMass": 14.00,
+        },
+        {
+            "name": "Paraguay",
+            "legalLimit": 0.00,
+            "alcoholMass": 10.00,
+        },
+        {
+            "name": "Poland",
+            "legalLimit": 0.02,
+            "alcoholMass": 10.00,
+        },
+        {
+            "name": "Portugal",
+            "legalLimit": 0.05,
+            "alcoholMass": 14.00,
+        },
+        {
+            "name": "Republic of Korea",
+            "legalLimit": 0.05,
+            "alcoholMass": 8.00,
+        },
+        {
+            "name": "Samoa",
+            "legalLimit": 0.04,
+            "alcoholMass": 10.00,
+        },
+        {
+            "name": "Senegal",
+            "legalLimit": 0.00,
+            "alcoholMass": 4.00,
+        },
+        {
+            "name": "Serbia",
+            "legalLimit": 0.03,
+            "alcoholMass": 13.00,
+        },
+        {
+            "name": "Seychelles",
+            "legalLimit": 0.08,
+            "alcoholMass": 10.00,
+        },
+        {
+            "name": "Singapore",
+            "legalLimit": 0.08,
+            "alcoholMass": 10.00,
+        },
+        {
+            "name": "Slovakia",
+            "legalLimit": 0.00,
+            "alcoholMass": 10.00,
+        },
+        {
+            "name": "Slovenia",
+            "legalLimit": 0.05,
+            "alcoholMass": 10.00,
+        },
+        {
+            "name": "Spain",
+            "legalLimit": 0.05,
+            "alcoholMass": 10.00,
+        },
+        {
+            "name": "Sweden",
+            "legalLimit": 0.02,
+            "alcoholMass": 12.00,
+        },
+        {
+            "name": "Switerzerland",
+            "legalLimit": 0.05,
+            "alcoholMass": 12.00,
+        },
+        {
+            "name": "Thailand",
+            "legalLimit": 0.05,
+            "alcoholMass": 10.00,
+        },
+        {
+            "name": "United Kingdom",
+            "legalLimit": 0.08,
+            "alcoholMass": 8.00,
+        },
+        {
+            "name": "United States",
+            "legalLimit": 0.04,
+            "alcoholMass": 14.00,
+        },
+        {
+            "name": "Unknown",
+            "legalLimit": 0.05,
+            "alcoholMass": 10.00,
+        }
+    ]
+}
